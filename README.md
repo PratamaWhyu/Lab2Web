@@ -15,10 +15,12 @@ Deklarasi dengan #intro h1 {...} ini lebih spesifik, karena menargetkan elemen h
 
 dikarenakan  inline CSS ini memiliki prioritas tertinggi. Gaya yang ditulis langsung pada elemen HTML akan selalu dijalankan jika ada konflik dengan gaya lain.
 contoh
-![image](https://github.com/user-attachments/assets/28be2b21-ebe4-461e-922c-ad71ebd5a36d)
+![image](https://github.com/user-attachments/assets/39bfa105-c1d0-444e-aa09-6658a28f3d99)
+
 ![image](https://github.com/user-attachments/assets/e862d5e7-90b6-4330-8eb9-13fedc2acbe5)
 hasil
-![image](https://github.com/user-attachments/assets/ae765534-6435-4734-b1bc-9ea0ce99d2a1)
+![image](https://github.com/user-attachments/assets/56c0474a-1aa0-41be-b164-ab67f4ed587e)
+
 
 4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 jika ada elemen yang memiliki deklarasi CSS dengan ID dan Class, maka gaya dari ID akan menjadi prioritas karena spesifisitasnya lebih tinggi dibandingkan dengan class
